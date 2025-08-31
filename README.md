@@ -7,4 +7,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devbyjelly&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=jeiiycodes&theme=radical&title=Experience,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devbyjelly&theme=radical&title=Experience,Commits)](https://github.com/ryo-ma/github-profile-trophy)
